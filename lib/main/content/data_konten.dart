@@ -1,0 +1,26 @@
+const DATA = [
+  {
+    'foto':'images/gandum.jpg',
+    'label':'Gandum'
+  },
+  {
+    'foto':'images/jagung.jpg',
+    'label':'Jagung'
+  },
+  {
+    'foto':'images/kacang.jpg',
+    'label':'Kacang'
+  },
+  {
+    'foto':'images/padi.jpg',
+    'label':'Padi'
+  },
+  {
+    'foto':'images/Tebu.jpg',
+    'label':'Tebu'
+  },
+  {
+    'foto':'images/tembakau.jpeg',
+    'label':'Tembakau'
+  },
+];

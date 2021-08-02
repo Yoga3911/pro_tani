@@ -1,0 +1,1 @@
+List<bool> data = [true, false, false];
