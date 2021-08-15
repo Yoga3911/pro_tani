@@ -1,1 +1,1 @@
-![Image1](https://github.com/Yoga3911/pro_tani/images/Tebu.jpg)
+![Image1](https://github.com/Yoga3911/pro_tani/blob/main/images/Tebu.jpg)
