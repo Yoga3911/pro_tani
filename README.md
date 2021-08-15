@@ -1,1 +1,1 @@
-![Image1](https://drive.google.com/file/d/1oPAOnJatypQ90SoDicEdg-jGKyH31AkC/view?usp=sharing)
+![Image1](https://github.com/Yoga3911/pro_tani/images/.png)
